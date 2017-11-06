@@ -22,7 +22,7 @@ Tutorial dedicado a quem pensa ou está desenvolvendo algo e precisa monitorar o
 **4º** Copie o ID do seu aplicativo e substitua no arquivo `public/index.html` onde está `__app_id` copie a url do `ngrok` e cole no lugar de `__ngrok_url`
 
 ## Facebook - Token
-**1º** Siga os passos abaixo para criar um token dahora para usarmos no servidor, acesse: https://developers.facebook.com/tools/explorer/
+**1º** Siga os passos abaixo para criar um token dahora para usarmos no servidor, acesse: https://developers.facebook.com/tools/explorer/ e escolha o seu aplicativo na caixa de seleção.
 ![Alt text](https://raw.githubusercontent.com/nulldreams/facebook-comment-box-monitor/master/img/5.PNG)
 ![Alt text](https://raw.githubusercontent.com/nulldreams/facebook-comment-box-monitor/master/img/7.PNG)
 ![Alt text](https://raw.githubusercontent.com/nulldreams/facebook-comment-box-monitor/master/img/6.PNG)
