@@ -3,11 +3,11 @@
 Tutorial dedicado a quem pensa ou está desenvolvendo algo e precisa monitorar os comentários do facebook em sites "real time".
  
 ## Server
-1º Faça o clone do repositório `git clone https://github.com/nulldreams/facebook-comment-box-monitor.git` (vamos voltar no código na parte final apenas)
+**1º** Faça o clone do repositório `git clone https://github.com/nulldreams/facebook-comment-box-monitor.git` (vamos voltar no código na parte final apenas)
 
-2º Use o `npm i && npm start`
+**2º** Use o `npm i && npm start`
 
-3º Baixe o [ngrok](https://ngrok.com/download) extraia o `ngrok.exe`, abra o terminal/prompt e execute `ngrok http 5000`, o ngrok criará um túnel na sua rede e deixará sua porta 5000 acessível para redes externas.
+**3º** Baixe o [ngrok](https://ngrok.com/download) extraia o `ngrok.exe`, abra o terminal/prompt e execute `ngrok http 5000`, o ngrok criará um túnel na sua rede e deixará sua porta 5000 acessível para redes externas.
  
 ## Facebook - Webhook
 
