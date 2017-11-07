@@ -1,8 +1,8 @@
-var express = require('express')
-var bodyParser = require('body-parser')
+const express = require('express')
+const bodyParser = require('body-parser')
 const token = '__token'
-var app = express()
-var port = process.env.PORT || 5000
+const app = express()
+const port = process.env.PORT || 5000
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
